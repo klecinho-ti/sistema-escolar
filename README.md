@@ -22,7 +22,7 @@ Nosso foco está em criar sistemas que **entregam valor real**, com agilidade, u
 ---
 
 ## 📚 Projetos em destaque
-### 🎓 [TECH ESCOLA](https://github.com/klecinho-ti/sistema-escolar)
+## 🎓 (https://portal.ebiqs.com/version-test/)
 Sistema acadêmico voltado para escolas técnicas com recursos de faculdade.  
 
 ---
