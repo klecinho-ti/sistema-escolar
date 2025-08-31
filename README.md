@@ -36,5 +36,4 @@ Sistema acadêmico voltado para escolas técnicas com recursos de faculdade.
 
 ## 📫 Contato
 - 🌐 Site oficial: *em breve*  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- ✉️ Email: klecio.ti@softcloudba.com
+ - ✉️ Email: klecio.ti@softcloudba.com
